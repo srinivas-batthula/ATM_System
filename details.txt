@@ -1,0 +1,7 @@
+-------->>>
+
+1. To run the application, Open Terminal & Run the Script " python start.py ".
+
+2. All source code of this project is in the file " src_atm_v5_python.py ".
+3. Starter file for this application is " start.py ".
+
