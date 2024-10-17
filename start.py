@@ -1,7 +1,7 @@
-import src/src-code_v5 as src
+import src.src_code_v5 as srcs
 
-src.start1()    # intro to ATM
+srcs.start1()    # intro to ATM
 
-src.start2()    # Main project Starter
+srcs.start2()    # Main project Starter
 
 
