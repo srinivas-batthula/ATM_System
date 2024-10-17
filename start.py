@@ -1,4 +1,4 @@
-import src_atm_v5_python as src
+import src/src-code_v5 as src
 
 src.start1()    # intro to ATM
 
