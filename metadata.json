@@ -1,9 +1,16 @@
 {
     "imgUrl": "https://srinivas-batthula.github.io/portfolio/utils/projects/atm_project.png",
     "title": "ATM System",
-    "des": "Welcome to the Project 'ATM System' - A Robust Banking Experience! This Python application simulates an ATM interface, allowing users to perform essential banking operations such as balance inquiries, deposits, transaction history with permanent data storage in JSON files and account management—all within a command-line environment.",
-    "isOneRepo": "true",
+    "description": "ATM System: A Python CLI app for balance checks, deposits & history with JSON-based data storage.",
+    "techStack": [
+        "Python",
+        "JSON"
+    ],
+    "keyFeatures": [
+        "Simulates real-world ATM operations with permanent JSON-based data storage",
+        "Secure CLI banking: balance checks, deposits, and transaction history"
+    ],
     "isLiveLink": "false",
-    "urlRepo": "https://github.com/srinivas-batthula/ATM_System",
-    "urlLive": ""
+    "githubLink": "https://github.com/srinivas-batthula/ATM_System",
+    "liveLink": ""
 }
