@@ -4,11 +4,12 @@
     "description": "ATM System: A Python CLI app for balance checks, deposits & history with JSON-based data storage.",
     "techStack": [
         "Python",
-        "JSON"
+        "JSON",
+        "CLI"
     ],
     "keyFeatures": [
         "Simulates real-world ATM operations with permanent JSON-based data storage",
-        "Secure CLI banking: balance checks, deposits, and transaction history"
+        "Secure CLI banking: balance checks, deposits, withdraws and transaction history"
     ],
     "isLiveLink": "false",
     "githubLink": "https://github.com/srinivas-batthula/ATM_System",
