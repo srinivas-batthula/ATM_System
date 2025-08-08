@@ -1,5 +1,5 @@
 {
-    "imgUrl": "/utils/projects/atm_project.png",
+    "imgUrl": "https://srinivas-batthula.github.io/portfolio/utils/projects/atm_project.png",
     "title": "ATM System",
     "description": "ATM System: A Python CLI app for balance checks, deposits & history with JSON-based data storage.",
     "techStack": [
