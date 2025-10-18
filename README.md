@@ -3,7 +3,6 @@
 
 Welcome to the Project ***ATM System***! This Python application simulates an ATM interface, allowing users to perform essential banking operations such as balance inquiries, withdrawals, deposits, and account management—all within a command-line environment.
 
-![ATM Flowchart](excalidraw2.svg)
 
 ## Screenshots
 
